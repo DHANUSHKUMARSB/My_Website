@@ -93,13 +93,13 @@ hr {
   left: 20%;
 }
 .social{
+  color: #EAF6F6;
   position: relative;
   width: 500px;
   height: 100px;
   margin: 25px auto 30px auto;
 }
 .footer-link1{
-  color: #EAF6F6;
   margin: 2px;
   position: absolute;
   top: 50px;
@@ -107,14 +107,12 @@ hr {
   left: 5%;
 }
 .footer-link2{
-  color: #EAF6F6;
   position: absolute;
   top: 50px;
   bottom: 20px;
   left: 30%;
 }
 .footer-link3{
-  color: #EAF6F6;
   position: absolute;
   top: 50px;
   bottom: 20px;
