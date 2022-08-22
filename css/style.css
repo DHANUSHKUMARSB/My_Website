@@ -100,6 +100,7 @@ hr {
   margin: 25px auto 30px auto;
 }
 .footer-link1{
+  color: #EAF6F6;
   margin: 2px;
   position: absolute;
   top: 50px;
@@ -107,12 +108,14 @@ hr {
   left: 5%;
 }
 .footer-link2{
+  color: #EAF6F6;
   position: absolute;
   top: 50px;
   bottom: 20px;
   left: 30%;
 }
 .footer-link3{
+  color: #EAF6F6;
   position: absolute;
   top: 50px;
   bottom: 20px;
@@ -130,7 +133,7 @@ hr {
   color: #EAF6F6;
   top: 100px;
   bottom: 20px;
-  right: 43%;
+  right: 44%;
 }
 
 /* CSS */
